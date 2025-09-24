@@ -4,7 +4,7 @@
 
 ---
 - 🔧 **Developer in training**, former project coordinator in the non-profit sector promoting inclusion through sport
-- 🤝 Strong **team player**, experienced in working in teams and in multicultural contexts
+- 🤝 Strong **team player**, experienced in working in teams and multicultural contexts
 - 🌱 Always eager to learn and improve my skills
 - 🔭 I’m currently working on [webserv - Custom HTTP Web Server](https://github.com/ndabboussi/webserv)
 - 💼 **Feel free to reach out** [My LinkedIn](https://www.linkedin.com/in/ndabboussi/)
